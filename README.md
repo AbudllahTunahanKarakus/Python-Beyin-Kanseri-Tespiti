@@ -22,8 +22,6 @@ Model, kendisine verilen bir 2D MR görüntüsünü **3 farklı sınıftan** bir
 * **Derin Öğrenme:** TensorFlow, Keras
 * **Temel Mimari:** Xception (Transfer Learning)
 * **Veri İşleme & Analiz:** NumPy, Pandas, Scikit-learn (Veri setini bölmek için)
-* **Görüntü İşleme:** OpenCV (cv2)
-* **Görselleştirme:** Matplotlib
 
 ---
 
